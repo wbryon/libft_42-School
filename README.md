@@ -1,2 +1,2 @@
-# test
-My_first_projects
+# libft
+This is my first project at 42_School
